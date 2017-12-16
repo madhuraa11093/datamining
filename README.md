@@ -1,6 +1,7 @@
 # datamining
 
 Introduction
+
 The number of movies produced by the American film studios is growing at an exponential rate, the United States is one of the top most 
 prolific producer of films in the world today. The success rate of the box office is of utmost importance since billions of dollars are
 invested in the making of each of these movies. In such a scenario, prior knowledge about the success or failure of a particular movie will benefit the production houses since these predictions will give them a fair idea of how to go about with the advertising and 
